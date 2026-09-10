@@ -1,0 +1,19 @@
+
+*spring profiles
+
+dev
+    logging.level.org.springframework=trace
+
+prod
+    logging.level.org.springframework=info
+
+trace
+debug
+info
+error
+
+off => this will complety off all the log
+
+
+\Users\asada\Desktop\SpringBoot\learn-spring-boot\target\learn-spring-boot-0.0.1-SNAPSHOT.jar
+

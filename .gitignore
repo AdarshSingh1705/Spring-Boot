@@ -1,0 +1,29 @@
+# Maven build output
+/target/
+
+# Logs
+*.log
+
+# OS-specific files
+Thumbs.db
+.DS_Store
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Spring Boot specific
+# (ignore default config if sensitive)
+application.yml
+application-*.yml
+application-*.properties
+
+# Environment files
+.env
+
+# Backup files
+*.bak
+*.swp
